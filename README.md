@@ -2,6 +2,16 @@
 
 **Alternativa 2: métodos numéricos para resolver ecuaciones diferenciales.**
 
+## Integrantes
+
+| Nombre | Carné |
+|---|---|
+| Andrés González | 24005 |
+| Jose Carlos Agustin | 24999 |
+| Steven Boy | 24541 |
+
+## Descripción
+
 Se implementan a mano dos métodos iterativos de paso fijo:
 
 - **Euler** (orden 1)
