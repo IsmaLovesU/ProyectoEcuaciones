@@ -1,0 +1,9 @@
+problema,metodo,h,error_max,error_final
+Enfriamiento de Newton,Euler,0.5,1.05606,0.194412
+Enfriamiento de Newton,RK4,0.5,1.83283e-05,3.65005e-06
+Masa-resorte sin amortiguamiento,Euler,0.1,10.0753,10.0753
+Masa-resorte sin amortiguamiento,RK4,0.1,5.06404e-04,3.69419e-04
+Sistema lineal 2x2,Euler,0.1,150.883,150.883
+Sistema lineal 2x2,RK4,0.1,0.0900456,0.0900456
+Oscilador de Van der Pol (mu = 1),Euler,0.05,2.83324,2.82394
+Oscilador de Van der Pol (mu = 1),RK4,0.05,7.23025e-05,2.93302e-05
